@@ -79,7 +79,7 @@ select {
 }
 
 button.add-post {
-  background-color: #000;
+  background-color: green;
   color: #fff;
   padding: 10px 20px;
   border: none;
